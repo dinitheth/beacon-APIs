@@ -4710,7 +4710,6 @@ paths:
                                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                               pattern: '^0x[a-fA-F0-9]{64}$'
                                         - type: object
-                                          additionalProperties: false
                                           required:
                                             - transactions_root
                                           properties:
@@ -5375,7 +5374,6 @@ paths:
                                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                               pattern: '^0x[a-fA-F0-9]{64}$'
                                         - type: object
-                                          additionalProperties: false
                                           required:
                                             - transactions_root
                                             - withdrawals_root
@@ -8706,7 +8704,6 @@ paths:
                                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                               pattern: '^0x[a-fA-F0-9]{64}$'
                                         - type: object
-                                          additionalProperties: false
                                           required:
                                             - transactions_root
                                           properties:
@@ -9371,7 +9368,6 @@ paths:
                                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                               pattern: '^0x[a-fA-F0-9]{64}$'
                                         - type: object
-                                          additionalProperties: false
                                           required:
                                             - transactions_root
                                             - withdrawals_root
@@ -26621,7 +26617,6 @@ paths:
                                                     example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                                     pattern: '^0x[a-fA-F0-9]{64}$'
                                               - type: object
-                                                additionalProperties: false
                                                 required:
                                                   - transactions_root
                                                 properties:
@@ -27286,7 +27281,6 @@ paths:
                                                     example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                                     pattern: '^0x[a-fA-F0-9]{64}$'
                                               - type: object
-                                                additionalProperties: false
                                                 required:
                                                   - transactions_root
                                                   - withdrawals_root
@@ -29164,7 +29158,6 @@ paths:
                                         example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                         pattern: '^0x[a-fA-F0-9]{64}$'
                                   - type: object
-                                    additionalProperties: false
                                     required:
                                       - transactions_root
                                       - withdrawals_root
@@ -30054,7 +30047,6 @@ paths:
                                           example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                           pattern: '^0x[a-fA-F0-9]{64}$'
                                     - type: object
-                                      additionalProperties: false
                                       required:
                                         - transactions_root
                                         - withdrawals_root
@@ -30236,7 +30228,6 @@ paths:
                                           example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                           pattern: '^0x[a-fA-F0-9]{64}$'
                                     - type: object
-                                      additionalProperties: false
                                       required:
                                         - transactions_root
                                         - withdrawals_root
@@ -31478,7 +31469,6 @@ paths:
                                         example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                         pattern: '^0x[a-fA-F0-9]{64}$'
                                   - type: object
-                                    additionalProperties: false
                                     required:
                                       - transactions_root
                                       - withdrawals_root
@@ -31628,7 +31618,6 @@ paths:
                                         example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                         pattern: '^0x[a-fA-F0-9]{64}$'
                                   - type: object
-                                    additionalProperties: false
                                     required:
                                       - transactions_root
                                       - withdrawals_root
@@ -32706,7 +32695,6 @@ paths:
                                         example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                         pattern: '^0x[a-fA-F0-9]{64}$'
                                   - type: object
-                                    additionalProperties: false
                                     required:
                                       - transactions_root
                                       - withdrawals_root
@@ -37503,7 +37491,6 @@ paths:
                                     example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                     pattern: '^0x[a-fA-F0-9]{64}$'
                               - type: object
-                                additionalProperties: false
                                 required:
                                   - transactions_root
                                 properties:
@@ -37964,7 +37951,6 @@ paths:
                                     example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                     pattern: '^0x[a-fA-F0-9]{64}$'
                               - type: object
-                                additionalProperties: false
                                 required:
                                   - transactions_root
                                   - withdrawals_root
@@ -43024,7 +43010,6 @@ paths:
                                                 example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                                 pattern: '^0x[a-fA-F0-9]{64}$'
                                           - type: object
-                                            additionalProperties: false
                                             required:
                                               - transactions_root
                                             properties:
@@ -44361,7 +44346,6 @@ paths:
                                                 example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                                 pattern: '^0x[a-fA-F0-9]{64}$'
                                           - type: object
-                                            additionalProperties: false
                                             required:
                                               - transactions_root
                                               - withdrawals_root
@@ -55195,7 +55179,6 @@ components:
                   example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                   pattern: '^0x[a-fA-F0-9]{64}$'
             - type: object
-              additionalProperties: false
               required:
                 - transactions_root
               properties:
@@ -57054,7 +57037,6 @@ components:
                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                               pattern: '^0x[a-fA-F0-9]{64}$'
                         - type: object
-                          additionalProperties: false
                           required:
                             - transactions_root
                           properties:
@@ -57676,7 +57658,6 @@ components:
                                   example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                   pattern: '^0x[a-fA-F0-9]{64}$'
                             - type: object
-                              additionalProperties: false
                               required:
                                 - transactions_root
                               properties:
@@ -58194,7 +58175,6 @@ components:
                   example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                   pattern: '^0x[a-fA-F0-9]{64}$'
             - type: object
-              additionalProperties: false
               required:
                 - transactions_root
                 - withdrawals_root
@@ -60262,7 +60242,6 @@ components:
                               example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                               pattern: '^0x[a-fA-F0-9]{64}$'
                         - type: object
-                          additionalProperties: false
                           required:
                             - transactions_root
                             - withdrawals_root
@@ -60929,7 +60908,6 @@ components:
                                   example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                                   pattern: '^0x[a-fA-F0-9]{64}$'
                             - type: object
-                              additionalProperties: false
                               required:
                                 - transactions_root
                                 - withdrawals_root
@@ -61081,7 +61059,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
@@ -61274,7 +61251,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
@@ -61456,7 +61432,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
@@ -61646,7 +61621,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
@@ -61796,7 +61770,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
@@ -61984,7 +61957,6 @@ components:
                       example: '0xcf8e0d4e9587369b2301d0790347320302cc0943d5a1884560367e8208d920f2'
                       pattern: '^0x[a-fA-F0-9]{64}$'
                 - type: object
-                  additionalProperties: false
                   required:
                     - transactions_root
                     - withdrawals_root
